@@ -129,6 +129,10 @@ hr {
     left: -30%;
     width: 80%;
   }
+
+  .card-btm img {
+    left: 33%;
+  }
 }
 
 @media only screen and (min-width: 1500px) {
